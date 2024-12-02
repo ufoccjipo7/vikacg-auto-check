@@ -19,4 +19,4 @@
 
 ## 查看签到记录
 
-点击Actions-All workflows，如果已有`VikACG Auto Check In`，则已设置成功，点击可查看执行记录
+点击Actions-All workflows，如果已有`VikACG Auto Check In`，则已设置成功，点击可查看执行记录 
