@@ -10,7 +10,7 @@ import (
 	"strings"
 )
 
-const URL = "https://www.vikacg.com/wp-json/b2/v1/userMission"
+const URL = "https://www.vikacg.com/api/b2/v1/userMission"
 
 var authorizations = os.Getenv("AUTHORIZATION")
 var cookies = os.Getenv("COOKIE")
